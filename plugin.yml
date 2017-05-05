@@ -2,3 +2,12 @@ name: EasyCommandsMP
 main: Orgz1AAA\EasyCommandsMP\plugin
 version: 0.0.1
 api: 1.0.0
+commands:
+ create:
+  description: EasyCommandsMP Creative Command 1.
+  usage: /create [player]
+  permission: ecmp.create
+ survive:
+  description: EasyCommandsMP Survival Command 1.
+  usage: /survive [player]
+  permission: ecmp.survive
